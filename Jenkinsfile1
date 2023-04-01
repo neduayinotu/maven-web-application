@@ -3,7 +3,7 @@ pipeline{
 agent app
 
 tools{
-maven 'maven3.8.2'
+maven 'maven3.8.3'
 
 }
 
