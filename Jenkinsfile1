@@ -1,6 +1,6 @@
 pipeline{
 
-agent many
+agent application
 
 tools{
 maven 'maven3.8.2'
